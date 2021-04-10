@@ -6,3 +6,4 @@ Jak wgrać tą listę:
 3. -> Blocklist
 4. Dodajemy adresy url z lista.txt do pola tekstowego
 5. Seve and Update
+https://raw.githubusercontent.com/kry008/PI-HOLE-AD-LIST-POLSKA/master/lista.txt
